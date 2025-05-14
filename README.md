@@ -33,6 +33,13 @@ Entity-Relationship Diagram (ERD)
 The ERD visualizes the relationships between tables in the database.
 
 
+
+
+
+
+
+
+
 Tables Overview
 Users: Manages user login credentials and roles
 
@@ -45,10 +52,15 @@ Specializations: List of medical specializations
 Appointments: Stores patient-doctor appointment records
 
 Prescriptions: Links prescriptions to specific appointments
-
 Author
 Blagden Sitati Liveha
 Email: sitatiblagden@gmail.com
+
+ERD table
+
+
+![Screenshot_20250514-073140](https://github.com/user-attachments/assets/6a1717a0-57de-4082-8b4f-d8072e16e942)
+
 
 
 
